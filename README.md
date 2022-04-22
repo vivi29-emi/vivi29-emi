@@ -4,7 +4,7 @@
 
 <h3> <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">Sobre mim </h3>
 
-- 🤔 &nbsp; Desenvolvendo soluções em Java.
+
 - 🎓 &nbsp; Estudando Desenvolvimento web/ full stack na <a href="https://brazil.generation.org/sao-paulo/pessoa-desenvolvedora-web/">Generation</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **java** e irei explorar novas linguagens porem aprimorar em JS.
 
