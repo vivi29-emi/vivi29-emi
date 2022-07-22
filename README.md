@@ -4,6 +4,8 @@
 
 <h3> <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png">Sobre mim </h3>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 - 🎓 &nbsp; Estudando Desenvolvimento web  |Java e Spring Boot
 - 🌱 &nbsp; Futuramente irei explorar novas linguagens principalmente Js.
