@@ -1,5 +1,5 @@
 
-#Olá! me chamo Viviane 
+##<h1>Olá! me chamo Viviane <h1>
 
 <h5>🌱 Aperfeiçoando meus conhecimento em Java e Spring<h5>
 <h5>🌱 Estudando automação de testes web e Api<h5>
@@ -7,17 +7,12 @@
 
 
 
-
-
-
-
-<div align="center">
-   <a href="https://github.com/vivi29-emi">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=insivam&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&layout=compact&hide=issues,contribs&bg_color=00000000"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insivam&layout=compact&langs_count=6&hide_border=true&theme=tokyonight&bg_color=00000000"/>
+<div align = center>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vivi29-emi&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivi29-emi&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-
+##
 
 
 
