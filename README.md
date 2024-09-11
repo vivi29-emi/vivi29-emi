@@ -2,7 +2,7 @@
 ##<h1>Olá! me chamo Viviane <h1>
 
 <h5>🌱 Aperfeiçoando meus conhecimento em Java e Spring<h5>
-<h5>🌱 Estudando automação de testes web e Api<h5>
+<h5>🌱 Estudando automação de processos<h5>
 
 
 
