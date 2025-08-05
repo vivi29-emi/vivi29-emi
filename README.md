@@ -11,7 +11,7 @@
   - JDK 17 e 21
   - Programação Orientada a Objetos (POO)
   - Uso de Interfaces e Abstração
-  - Manipulação com Maps e Stream API
+  - Manipulação com Maps e Stream
 
 - 🌱 **Spring Framework**
   - Spring Boot
