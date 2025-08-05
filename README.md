@@ -26,8 +26,11 @@
   - Bancos relacionais e não relacionais
 
 - 📚 **Boas práticas de código**
-  - Estudando os livros *Clean Code* (Robert C. Martin) , próximas leituras ( *Refactoring* (Martin Fowler) , Designer Partner.
-  - Estudando para aplicar em meus projetos princípios de código limpo, legível e de fácil manutenção
+  - Estudando o livro *Clean Code* (Robert C. Martin)
+  - Próximas leituras:
+    - *Refactoring* (Martin Fowler)
+    - *Design Patterns*
+    -  foco em aplicar em meus projetos código limpo, legível, reutilizável e de fácil manutenção
 
 ---
 
