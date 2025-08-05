@@ -1,8 +1,62 @@
 
-##<h1>Olá! me chamo Viviane <h1>
+## 👋 Olá! Meu nome é **Viviane Emilie**
 
-<h5>🌱 Aperfeiçoando meus conhecimento em Java e Spring<h5>
-<h5>🌱 Estudando automação de processos<h5>
+💻 Sou uma desenvolvedora em formação fullstack, com foco principal em **back-end**.
+
+---
+
+### 🧠 Minha linha de estudo
+
+- 🚀 **Java**
+  - JDK 17 e 21
+  - Programação Orientada a Objetos (POO)
+  - Uso de Interfaces e Abstração
+  - Manipulação com Maps e Stream API
+
+- 🌱 **Spring Framework**
+  - Spring Boot
+  - Criação de APIs RESTful
+  - Injeção de dependência e boas práticas
+
+- 📈 **Automação de processos**
+  - Manipulação e leitura de arquivos `.xlsx` e `.csv`
+
+- 🗄️ **Banco de Dados**
+  - Modelagem de dados
+  - Bancos relacionais e não relacionais
+
+- 📚 **Boas práticas de código**
+  - Estudando os livros *Clean Code* (Robert C. Martin) , próximas leituras ( *Refactoring* (Martin Fowler) , Designer Partner.
+  - Estudando para aplicar em meus projetos princípios de código limpo, legível e de fácil manutenção
+
+---
+
+### 💻 Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### 🧰 Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+---
+
+### 📚 Bibliotecas
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+### 🐳 Containers
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🗃️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
 
 
 
